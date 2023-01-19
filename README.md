@@ -6,6 +6,9 @@ and returns the most active cookie for the particular day passed in.
 Data Format: 
 
 cookie,timestamp
+
+
+
 AtY0laUfhglK3lC7,2018-12-09T14:19:00+00:00
 SAZuXPGUrfbcn5UA,2018-12-09T10:13:00+00:00
 5UAVanZf6UtGyKVS,2018-12-09T07:25:00+00:00
